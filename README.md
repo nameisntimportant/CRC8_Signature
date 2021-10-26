@@ -7,3 +7,4 @@ The signature is generated as follows: the source file is divided into equal (fi
  - -o output file path
  - -s block size (1MB by default)
  - -t disk type (HDD or SSD. HDD by default)
+ - -m maximum RAM usage of the program (3GB by default)
